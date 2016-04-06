@@ -1,4 +1,3 @@
-# UDBing
+# UD
 Rough work
 
-added example jupiter notebook files
